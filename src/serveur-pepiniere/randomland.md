@@ -2,6 +2,10 @@
 
 -----
 
+::: tip Le serveur randomland a pris son indépendance. 
+Retrouvez le sur [https://randomland.fr](https://randomland.fr)
+:::
+
 ### Le random, qu'est-ce ?
 
 D'où son nom en anglais le random c'est de l'aléatoire. Sur minecraft, il est rendu possible d'une part en modifiant les loots ou d'autre part en modifiant les crafts. Sur ce serveur l'aléatoire est basé sur les loots. Casser un simple bloc d'herbe ne vous donnera plus ce dernier, ce peut être du diamant, un bloc de laine blanche tout comme un cadre. L'obtention des objets et blocs nécessaires à une survie peuvent eux être plus simple à avoir tout comme plus compliqué avec ce système d'aléatoire.
@@ -21,3 +25,5 @@ Rejoignez nous également sur le discord dédié au serveur : [https://discord.g
 <br/>
 
 Tous les détails : [https://play-mc.fr/forum/d/2027-serveur-pepiniere-n02-randomland](https://play-mc.fr/forum/d/2027-serveur-pepiniere-n02-randomland)
+
+Site officiel : [https://randomland.fr/](https://randomland.fr/)
