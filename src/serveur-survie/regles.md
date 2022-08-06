@@ -46,7 +46,7 @@ Plus d'infos sur la partie liée aux coffres : [https://play-mc.fr/forum/d/2033-
 Le terrain (claim) d’un joueur absent peut être libéré (déclaim) par un super-modérateur. Les délais pour obtenir un déclaim sont les suivants :
 
 * claim vide -> 30 jours ;
-* déclaim pour projet après demande via le forum (https://play-mc.fr/forum/t/demandes-de-d-claim) -> 60 jours ;
+* déclaim pour projet après demande via le forum ([https://play-mc.fr/forum/t/demandes-de-d-claim](https://play-mc.fr/forum/t/demandes-de-d-claim)) -> 60 jours ;
 * declaim sans projet spécifique -> 100 jours.
 
 L’anti-déclaim, c’est-à-dire le fait de se connecter uniquement pour conserver ses terrains, peut être sanctionné par le déclaim desdits terrains.
