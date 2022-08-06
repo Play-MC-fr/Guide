@@ -60,6 +60,7 @@ module.exports = {
           { text: 'Minecraft-France', link: 'https://www.minecraft-france.fr/' },
           { text: 'Gunivers', link: 'https://gunivers.net/' },
           { text: 'Syraniix', link: 'https://www.youtube.com/channel/UC9YGYDEGI6B5uQL_CbQbcdw' },
+          { text: 'The Elder Guardian', link: 'https://theelderguardian.fr/' },
         ]
       }
     ],
