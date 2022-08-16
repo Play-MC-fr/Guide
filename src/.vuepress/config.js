@@ -101,7 +101,6 @@ module.exports = {
             '/serveur-pepiniere/presentation.md',
             '/serveur-pepiniere/mini-jeux.md',
             '/serveur-pepiniere/rivals.md',
-            '/serveur-pepiniere/randomland.md',
             '/serveur-pepiniere/faq.md',
           ]
         }
