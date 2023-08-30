@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Guide',
+  title: 'Guide | Serveurs Minecraft non officiels, non approuvés ou associés à Mojang ou Microsoft.',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: 'Serveurs Minecraft non officiels, non approuvés ou associés à Mojang ou Microsoft.',
 
   base: '/',
 
